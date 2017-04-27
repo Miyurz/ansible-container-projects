@@ -1,0 +1,5 @@
+# pip packages for ansible-conatiner 0.9 and onwards
+ansible-container==0.9
+yamllint
+docker>=2.1
+

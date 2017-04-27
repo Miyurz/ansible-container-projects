@@ -1,0 +1,4 @@
+#ansible-container < 0.9 pre-req pip packages
+ansible-container==0.3
+yamllint
+docker-py
